@@ -1,4 +1,3 @@
-# KeerthanaGudipalli
 # Hi, I'm Keerthana Gudipalli 👋
 
 Data Science graduate with experience in Data analytics, Business intelligence, Data engineering, and Machine learning.
